@@ -26,6 +26,9 @@ class ViewController: UIViewController {
         // Adding comment to test github
         // adding second comment bc of failed attempt
         // third attempt
+        // i think this is finally working let me try again
+        // epic fail i must try again
+        
     }
 
     @IBAction func sendMailButtonPressed(sender: UIButton) {
