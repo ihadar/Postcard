@@ -25,6 +25,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
         // Adding comment to test github
         // adding second comment bc of failed attempt
+        // third attempt
     }
 
     @IBAction func sendMailButtonPressed(sender: UIButton) {
