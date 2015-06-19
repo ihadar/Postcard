@@ -29,7 +29,7 @@ class ViewController: UIViewController {
         // i think this is finally working let me try again
         // epic fail i must try again
         // success
-        
+        // not so much of a success, i cant figuere out why yet- hoping to succeed this time around- i wont fail.
     }
 
     @IBAction func sendMailButtonPressed(sender: UIButton) {
